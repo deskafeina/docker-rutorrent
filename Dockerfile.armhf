@@ -27,6 +27,7 @@ RUN \
 	gzip \
 	libffi \
 	mediainfo \
+	mosquitto-clients \
 	openssl \
 	php7 \
 	php7-cgi \
